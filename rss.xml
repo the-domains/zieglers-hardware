@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Zieglers Hardware]]></title>
-        <description><![CDATA[Zieglers Hardware]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Ziegler's Hardware & Supply | ]]></title>
+        <description><![CDATA[Ziegler's Hardware & Supply | ]]></description>
+        <link>https://thegrid.ai/zieglers-hardware/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 10:16:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 13:09:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zieglers-hardware/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paint Supplies ]]></title>
+            <description><![CDATA[<article><h1>Paint Supplies </h1><h2>Visit the New paint studio at Ziegler's Hardware & Supply.</h2><p>The paint studio is your one-stop shop for any paint project.
+
+Check out all our paint products & supplies you need for a successful job: </p></article>]]></description>
+            <link>http://www.paintsupplieslosangeles.com/paint-supplies/</link>
+            <guid isPermaLink="false">647b7bae-ca1b-4c17-ab38-98cb93fb07da</guid>
+            <pubDate>Mon, 14 Mar 2016 13:09:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home Page]]></title>
             <description><![CDATA[<article><h1>Home Page</h1><p>Zieglers Store Front</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bcccbfa4fcab6a8728ee9dab0e574e1adcf1ce0.jpg"></article>]]></description>
-            <link>undefinedhome-page/index.html</link>
+            <link>https://thegrid.ai/zieglers-hardware/home-page/index.html</link>
             <guid isPermaLink="false">d3b9fcaf-e36e-41e7-b213-76c10f98ee52</guid>
             <pubDate>Thu, 03 Mar 2016 10:16:23 GMT</pubDate>
         </item>
