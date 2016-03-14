@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Contact Information  Ziegler's Hardware  Business Address: 3948 Tweedy Blvd South Gate, CA 90280 Telephone: (323) 566-1911 Business Hours: Mon-Fri 7:00am – 7:00"
-datePublished: '2016-03-14T14:00:50.568Z'
-dateModified: '2016-03-14T13:41:32.996Z'
+datePublished: '2016-03-14T14:01:17.387Z'
+dateModified: '2016-03-14T14:00:59.526Z'
 author: []
 title: Contact Us
 sourcePath: _posts/2016-03-14-contact-us.md
