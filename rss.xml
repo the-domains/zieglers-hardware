@@ -4,8 +4,15 @@
         <description><![CDATA[Ziegler's Hardware & Supply | ]]></description>
         <link>https://thegrid.ai/zieglers-hardware/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 13:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 13:17:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zieglers-hardware/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home Page]]></title>
+            <description><![CDATA[<article><h1>Home Page</h1><p>Zieglers Store Front</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bcccbfa4fcab6a8728ee9dab0e574e1adcf1ce0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/zieglers-hardware/home-page/index.html</link>
+            <guid isPermaLink="false">d3b9fcaf-e36e-41e7-b213-76c10f98ee52</guid>
+            <pubDate>Mon, 14 Mar 2016 13:17:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Plumbing Supplies]]></title>
             <description><![CDATA[<article><h1>Plumbing Supplies</h1><p>We carry a broad array of plumbing supplies from: </p></article>]]></description>
@@ -28,13 +35,6 @@ Check out all our paint products & supplies you need for a successful job: </p>
             <link>http://www.paintsupplieslosangeles.com/paint-supplies/</link>
             <guid isPermaLink="false">647b7bae-ca1b-4c17-ab38-98cb93fb07da</guid>
             <pubDate>Mon, 14 Mar 2016 13:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home Page]]></title>
-            <description><![CDATA[<article><h1>Home Page</h1><p>Zieglers Store Front</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bcccbfa4fcab6a8728ee9dab0e574e1adcf1ce0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/zieglers-hardware/home-page/index.html</link>
-            <guid isPermaLink="false">d3b9fcaf-e36e-41e7-b213-76c10f98ee52</guid>
-            <pubDate>Thu, 03 Mar 2016 10:16:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
