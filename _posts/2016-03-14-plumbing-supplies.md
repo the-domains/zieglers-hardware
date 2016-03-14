@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.paintsupplieslosangeles.com/plumbing-supplies/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "We carry a broad array of plumbing supplies from:\_"
-datePublished: '2016-03-14T13:09:34.041Z'
-dateModified: '2016-03-14T11:54:53.340Z'
+datePublished: '2016-03-14T13:21:03.778Z'
+dateModified: '2016-03-14T13:12:24.427Z'
 author: []
 title: Plumbing Supplies
+sourcePath: _posts/2016-03-14-plumbing-supplies.md
+published: true
 authors: []
 publisher:
   name: paintsupplieslosangeles.com
   domain: www.paintsupplieslosangeles.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-plumbing-supplies.md
-published: true
+url: plumbing-supplies/index.html
 _context: 'http://schema.org'
 _type: Article
 
