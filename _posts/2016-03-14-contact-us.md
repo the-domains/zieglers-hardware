@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.paintsupplieslosangeles.com/contact-us/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Contact Information  Ziegler's Hardware  Business Address: 3948 Tweedy Blvd South Gate, CA 90280 Telephone: (323) 566-1911 Business Hours: Mon-Fri 7:00am – 7:00"
-datePublished: '2016-03-14T13:09:33.527Z'
-dateModified: '2016-03-14T10:14:53.018Z'
+datePublished: '2016-03-14T14:00:50.568Z'
+dateModified: '2016-03-14T13:41:32.996Z'
 author: []
 title: Contact Us
+sourcePath: _posts/2016-03-14-contact-us.md
+published: true
 authors: []
 publisher:
   name: paintsupplieslosangeles.com
   domain: www.paintsupplieslosangeles.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-contact-us.md
-published: true
+url: contact-us/index.html
 _context: 'http://schema.org'
 _type: Article
 
