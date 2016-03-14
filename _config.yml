@@ -1,4 +1,4 @@
-name: Zieglers Hardware
+name: "Ziegler's Hardware & Supply"
 favicon: null
 layout_spectrum: 0.92312
 typography_spectrum: 0.04588
@@ -22,7 +22,7 @@ color:
     - '#110302'
     - '#564941'
     - '#bababa'
-  brandStrength: 0.9375
+  brandStrength: 0.75
   lightness: 0.4375
   saturation: 0.875
   rhythmicContrast: 0.5
