@@ -1,6 +1,6 @@
 name: Zieglers Hardware
 favicon: null
-layout_spectrum: 0.010168012697249651
+layout_spectrum: 0.92312
 typography_spectrum: 0.25685
 title: "Ziegler's Hardware & Supply | "
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#474c55'
-    - '#ee3124'
-    - '#000000'
-    - '#005555'
-    - '#b43a34'
-  brandStrength: 0.4375
-  lightness: 0.48542494024150074
-  saturation: 0
-  rhythmicContrast: 0.25
+    - '#ffffff'
+    - '#e6400e'
+    - '#110302'
+    - '#564941'
+    - '#bababa'
+  brandStrength: 0.9375
+  lightness: 0.4375
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
