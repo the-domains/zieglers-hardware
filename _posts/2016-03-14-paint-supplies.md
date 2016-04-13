@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The paint studio is your one-stop shop for any paint project.\n\nCheck out all our paint products & supplies you need for a successful job:\_"
-datePublished: '2016-03-14T13:20:58.035Z'
-dateModified: '2016-03-14T13:12:07.912Z'
+datePublished: '2016-04-13T10:57:47.269Z'
+dateModified: '2016-03-14T14:28:32.305Z'
 author: []
 title: "Paint Supplies\_"
 sourcePath: _posts/2016-03-14-paint-supplies.md
