@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.4375
-  brandStrength: 0.8920515
-  rhythmicContrast: 1
+  saturation: 0.7903225
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#e6400e'
     - '#110302'
     - '#564941'
     - '#bababa'
-  lightness: 0.1875
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: "Ziegler's Hardware & Supply"
 favicon: null
+name: "Ziegler's Hardware & Supply"
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.04588
-layout_spectrum: 0.7352309
+typography_spectrum: 0.5979689
+layout_spectrum: 0.2729988
