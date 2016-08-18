@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "We carry a broad array of plumbing supplies from:\_"
-datePublished: '2016-03-14T13:21:03.778Z'
-dateModified: '2016-03-14T13:12:24.427Z'
+description: 'We carry a broad array of plumbing supplies from: '
+datePublished: '2016-08-18T03:08:04.457Z'
+dateModified: '2016-08-17T04:23:03.060Z'
 author: []
 title: Plumbing Supplies
 sourcePath: _posts/2016-03-14-plumbing-supplies.md
-published: true
 authors: []
 publisher:
   name: paintsupplieslosangeles.com
   domain: www.paintsupplieslosangeles.com
   url: null
   favicon: null
+via: {}
+starred: false
 url: plumbing-supplies/index.html
 _context: 'http://schema.org'
 _type: Article
