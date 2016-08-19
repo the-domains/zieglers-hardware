@@ -1,8 +1,31 @@
-name: Ziegler's Hardware & Supply
-favicon: null
-layout_spectrum: 0.90641
 typography_spectrum: 0.8116
-title: Ziegler's Hardware & Supply
+color:
+  brandColors:
+    - '#ffffff'
+    - '#e6400e'
+    - '#110302'
+    - '#564941'
+    - '#bababa'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.3125
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.90641
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ziegler's Hardware & Supply
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: taylor
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#e6400e'
-    - '#110302'
-    - '#564941'
-    - '#bababa'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.3125
-  rhythmicContrast: 0
+title: Zieglers Hardware & Supply
 purpose: []
