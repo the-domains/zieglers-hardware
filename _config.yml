@@ -24,19 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-style: taylor
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 title: Zieglers Hardware & Supply
 purpose: []
