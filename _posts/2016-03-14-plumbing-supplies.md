@@ -1,51 +1,38 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'We carry a broad array of plumbing supplies from: '
-datePublished: '2016-08-23T10:05:25.588Z'
-dateModified: '2016-08-23T10:05:25.063Z'
-author: []
-title: Plumbing Supplies
+datePublished: '2016-08-23T10:21:23.714Z'
 sourcePath: _posts/2016-03-14-plumbing-supplies.md
+inFeed: false
 authors: []
-publisher:
-  name: paintsupplieslosangeles.com
-  domain: www.paintsupplieslosangeles.com
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-23T10:21:23.218Z'
+title: Plumbing Supplies
+publisher: {}
+description: 'We carry a broad array of plumbing supplies from:'
+inLanguage: null
+inNav: true
 starred: false
 url: plumbing-supplies/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb1c872-a5fa-40a8-b633-6b7747f17f72.png)
+
 # Plumbing Supplies
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/051fae9c-b679-494c-b3eb-fd8b69097d6b.png)
 
-## Just like you
+We carry a broad array of plumbing supplies from:
 
-A large part of our hardworking customers are home owners and plumbers who depend on Ziegler's Hardware to pick their trusted tools to get the job done. 
-
-## From Pro to First-Timers
-
-Whether you're a plumbing pro or picking out a wrench for the first time, our vast array of plumbing supplies are durable, dependable, and trustworthy along with our trusted knowledgeable staff will ensure you get the right tool for the job.
-
-## Hello Handy & Helpful Customer Service
-
-All our staff at Zieglers Hardware is well known for their superb customer service, eager to help, and well knowledgeable in various areas of home improvement. You never have to worry if you got the right part. 
-
-We carry a broad array of plumbing supplies from: 
-
-* Plungers---To unclog stopped up toilets, showers or kitchen drains. 
-* Faucets---For kitchen, bathroom, wet bars, as well as faucet parts. 
-* Drain Cleaners---We have effective products to keep your drains clean. 
-* Garbage Disposals---We have top-quality garbage disposals. 
+* Plungers---To unclog stopped up toilets, showers or kitchen drains.
+* Faucets---For kitchen, bathroom, wet bars, as well as faucet parts.
+* Drain Cleaners---We have effective products to keep your drains clean.
+* Garbage Disposals---We have top-quality garbage disposals.
 * Plumbing Hardware---We have pipes and tubing, valves and drain parts.
-* Tools---Check our plumbing tools for a wide range of jobs. Sinks and 
-* Vanities---We have all the necessary piping to install or repair sinks and vanities. 
-* Toilets and Toilet Seats---Choose among several brands and colors. Tub and Shower---We carry shower heads, bath spouts and bath drains. 
+* Tools---Check our plumbing tools for a wide range of jobs. Sinks and
+* Vanities---We have all the necessary piping to install or repair sinks and vanities.
+* Toilets and Toilet Seats---Choose among several brands and colors. Tub and Shower---We carry shower heads, bath spouts and bath drains.
 
 Find your next projects plumbing hardware and supply and visit Ziegler's Hardware & Supply today.
