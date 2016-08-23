@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Electrical
+    id: efcc80b2-2c15-4be0-bf85-0a740896b42e
+    type: content
 favicon: null
 title: Zieglers Hardware & Supply
 purpose: []
