@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "The paint studio is your one-stop shop for any paint project.\n\nCheck out all our paint products & supplies you need for a successful job:\_"
-datePublished: '2016-04-13T10:57:47.269Z'
-dateModified: '2016-03-14T14:28:32.305Z'
+datePublished: '2016-08-23T10:05:37.163Z'
+dateModified: '2016-08-23T10:05:36.781Z'
 author: []
 title: "Paint Supplies\_"
 sourcePath: _posts/2016-03-14-paint-supplies.md
-published: true
 authors: []
 publisher:
   name: paintsupplieslosangeles.com
   domain: www.paintsupplieslosangeles.com
   url: null
   favicon: null
+via: {}
+starred: false
 url: paint-supplies/index.html
 _context: 'http://schema.org'
 _type: Article
