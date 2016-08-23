@@ -31,6 +31,9 @@ navigation:
   - name: Plumbing
     id: 0b05a80b-b1b1-4ab9-8f7e-e84833bfd748
     type: content
+  - name: "Paint\_"
+    id: 647b7bae-ca1b-4c17-ab38-98cb93fb07da
+    type: content
 favicon: null
 title: Zieglers Hardware & Supply
 purpose: []
