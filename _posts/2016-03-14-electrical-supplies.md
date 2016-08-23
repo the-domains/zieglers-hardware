@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T10:18:38.329Z'
+datePublished: '2016-08-23T10:18:49.592Z'
 sourcePath: _posts/2016-03-14-electrical-supplies.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T10:17:54.752Z'
+dateModified: '2016-08-23T10:18:49.143Z'
 title: Electrical
 publisher: {}
 description: >-
