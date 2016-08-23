@@ -1,5 +1,9 @@
 ---
-id: 5558126b-b08c-4335-97ae-458dc20197cf
+datePublished: '2016-08-23T10:24:42.872Z'
+sourcePath: _posts/2016-03-14-contact-us.md
+hasPage: true
+author: []
+via: {}
 metadata:
   datePublished: '2016-03-14T14:01:17.387Z'
   sourcePath: _posts/2016-03-14-contact-us.md
@@ -26,16 +30,12 @@ metadata:
   inLanguage: null
   inNav: true
   starred: false
-dateModified: '2016-08-23T10:06:02.221Z'
+dateModified: '2016-08-23T10:24:42.388Z'
 title: Contact Us
-datePublished: '2016-08-23T10:06:02.818Z'
-author: []
-hasPage: true
-description: ''
+id: 5558126b-b08c-4335-97ae-458dc20197cf
 publisher: {}
-via: {}
+description: ''
 starred: false
-sourcePath: _posts/2016-03-14-contact-us.md
 url: contact-us/index.html
 _type: Blurb
 
@@ -46,13 +46,12 @@ _type: Blurb
 
 ## Contact details:
 
-* Location: 3948 Tweedy Blvd South Gate, CA 90280 
-* Telephone: (323) 566-1911 
+* Location: 3948 Tweedy Blvd South Gate, CA 90280
+* Telephone: (323) 566-1911
 
-## Business Hours: 
+## Business Hours:
 
 * Mon-Fri 7:00am -- 7:00pm
 * Sat 7:00am -- 5:30pm
 * Sun 8:00am -- 3:00pm
-![See our location using Google Maps](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f339f969-9511-47bd-b899-b73244f32969.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/270cb9d1-aa16-48af-b9b8-848e15f9d8f0.png)
+![See our location using Google Maps](https://s3-us-west-2.amazonaws.com/the-grid-img/p/193eb5c60259a5b9e56bc6a2549860d93bb1fecb.png)
