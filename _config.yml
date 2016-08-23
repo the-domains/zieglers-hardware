@@ -28,6 +28,9 @@ navigation:
   - name: Electrical
     id: efcc80b2-2c15-4be0-bf85-0a740896b42e
     type: content
+  - name: Plumbing
+    id: 0b05a80b-b1b1-4ab9-8f7e-e84833bfd748
+    type: content
 favicon: null
 title: Zieglers Hardware & Supply
 purpose: []
