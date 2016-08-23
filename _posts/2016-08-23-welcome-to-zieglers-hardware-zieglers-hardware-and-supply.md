@@ -10,8 +10,8 @@ description: >-
   up that last-minute item you need, you'll know you come to the right place..
   If you need an extra set of keys, or to get some parts for your bicycle, or a
   new set of window screens, Ziegler’s Hardware is the place to go.
-dateModified: '2016-08-23T10:12:46.806Z'
-datePublished: '2016-08-23T10:13:35.723Z'
+dateModified: '2016-08-23T10:14:44.952Z'
+datePublished: '2016-08-23T10:14:45.654Z'
 title: Welcome To Ziegler's Hardware Ziegler’s Hardware & Supply
 author:
   - name: Albert Martinez
@@ -20,8 +20,8 @@ publisher:
   name: Albert Martinez
   url: 'https://albertmartinez.myportfolio.com/'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-welcome-to-zieglers-hardware-zieglers-hardware-and-supply.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
