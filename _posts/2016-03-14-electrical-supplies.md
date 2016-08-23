@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T10:05:12.947Z'
+datePublished: '2016-08-23T10:18:38.329Z'
 sourcePath: _posts/2016-03-14-electrical-supplies.md
 inFeed: false
 authors: []
@@ -7,13 +7,9 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T10:05:12.527Z'
-title: Electrical Supplies
-publisher:
-  name: paintsupplieslosangeles.com
-  domain: www.paintsupplieslosangeles.com
-  url: null
-  favicon: null
+dateModified: '2016-08-23T10:17:54.752Z'
+title: Electrical
+publisher: {}
 description: >-
   If you are about to undertake a project and are in need of electrical
   supplies, Ziegler’s Hardware is your one-stop electrical supplies provider.
@@ -29,7 +25,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Electrical Supplies
+# Electrical
 
 If you are about to undertake a project and are in need of electrical supplies, Ziegler's Hardware is your one-stop electrical supplies provider. Based in Los Angeles, California, we have been servicing this community for over 16 years. A growing number of utility industry professionals and your everyday 'Do-It-Yourself' (DIY) customers are looking for home improvement and D.I.Y. project supplies have become Ziegler's Hardware's loyal customers.
 
