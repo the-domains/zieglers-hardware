@@ -1,4 +1,16 @@
 ---
+datePublished: '2016-08-23T10:16:04.044Z'
+sourcePath: _posts/2016-08-23-welcome-to-zieglers-hardware-zieglers-hardware-and-supply.md
+inFeed: true
+author:
+  - name: Albert Martinez
+    url: 'https://albertmartinez.myportfolio.com/'
+via: {}
+dateModified: '2016-08-23T10:16:03.580Z'
+title: Welcome To Ziegler's Hardware Ziegler’s Hardware & Supply
+publisher:
+  name: Albert Martinez
+  url: 'https://albertmartinez.myportfolio.com/'
 description: >-
   Family owned & operated since 1998. Aside from traditional hardware items, we
   also have window screens, painting supplies, fog controls, nuts and bolts,
@@ -10,22 +22,8 @@ description: >-
   up that last-minute item you need, you'll know you come to the right place..
   If you need an extra set of keys, or to get some parts for your bicycle, or a
   new set of window screens, Ziegler’s Hardware is the place to go.
-dateModified: '2016-08-23T10:14:44.952Z'
-datePublished: '2016-08-23T10:14:45.654Z'
-title: Welcome To Ziegler's Hardware Ziegler’s Hardware & Supply
-author:
-  - name: Albert Martinez
-    url: 'https://albertmartinez.myportfolio.com/'
-publisher:
-  name: Albert Martinez
-  url: 'https://albertmartinez.myportfolio.com/'
-via: {}
-sourcePath: _posts/2016-08-23-welcome-to-zieglers-hardware-zieglers-hardware-and-supply.md
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc87f51-c273-45fd-b0ac-728e628ba339.png)
