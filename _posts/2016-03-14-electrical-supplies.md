@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T10:01:57.453Z'
+datePublished: '2016-08-23T10:05:12.947Z'
 sourcePath: _posts/2016-03-14-electrical-supplies.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T10:01:56.906Z'
+dateModified: '2016-08-23T10:05:12.527Z'
 title: Electrical Supplies
 publisher:
   name: paintsupplieslosangeles.com
